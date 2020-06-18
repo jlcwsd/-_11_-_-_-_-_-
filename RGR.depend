@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1592412784 source:c:\users\uzer\desktop\++\ÐÃÐ\rgr\main.cpp
+	"rashod.h"
+	"prihod.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1592403036 source:c:\users\uzer\desktop\++\ÐÃÐ\rgr\rashod.cpp
+	"rashod.h"
+
+1592403003 c:\users\uzer\desktop\++\ÐÃÐ\rgr\rashod.h
+	<iostream>
+	<cstring>
+
+1592404453 source:c:\users\uzer\desktop\++\ÐÃÐ\rgr\prihod.cpp
+	"prihod.h"
+
+1592403612 c:\users\uzer\desktop\++\ÐÃÐ\rgr\prihod.h
+	<iostream>
+	<cstring>
+
+1592417848 source:c:\users\slavi\desktop\rgr\prihod.cpp
+	"prihod.h"
+
+1592417848 c:\users\slavi\desktop\rgr\prihod.h
+	<iostream>
+	<cstring>
+
+1592417848 source:c:\users\slavi\desktop\rgr\rashod.cpp
+	"rashod.h"
+
+1592417848 c:\users\slavi\desktop\rgr\rashod.h
+	<iostream>
+	<cstring>
+
+1592459198 source:c:\users\slavi\desktop\rgr\main.cpp
+	"rashod.h"
+	"prihod.h"
+	"operatcii.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1592459198 c:\users\slavi\desktop\rgr\operatcii.h
+	<iostream>
+
+1592459909 source:c:\users\slavi\desktop\rgr\operatcii.cpp
+	"operatcii.h"
+	<fstream>
+	<sstream>
+
